@@ -1,12 +1,14 @@
 robotlegs2-SignalCommandMap-example
 ===================================
 
-Robotlegs 2 with SignalCommandMap  extension example FTW
-
 Merged Event base and Signals base (Flex) version from...
----
-https://github.com/probertson/robotlegs-examples-Simple_NoFlex
-https://github.com/dotdotcommadot/ModularRL
----
+----
+1. https://github.com/probertson/robotlegs-examples-Simple_NoFlex
+2. https://github.com/dotdotcommadot/ModularRL
 
-That's it!
+And also all require compiled swc.
+
+Don't forget to add this to compiler option
+----
+
+    -keep-as3-metadata+=Inject -keep-as3-metadata+=PostConstruct
