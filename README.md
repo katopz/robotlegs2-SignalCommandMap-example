@@ -2,16 +2,15 @@ robotlegs2-SignalCommandMap-example
 ===================================
 
 Pure as3 version which is ported and merged Event base and Signals base (Flex) version from...
-----
+
 1. https://github.com/probertson/robotlegs-examples-Simple_NoFlex
 2. https://github.com/dotdotcommadot/ModularRL
 
-And also all required swc for hit and run.
-Don't forget to add this to compiler option
-----
-
+And also all required swc for hit and run. Don't forget to add this to compiler option.
+```
     -keep-as3-metadata+=Inject -keep-as3-metadata+=PostConstruct
-
+```
+Please see http://www.robotlegs.org/ for more detail.
 - - -
 If you like this please [feed](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=katopz%40sleepydesign%2ecom&item_name=sleepydesign&no_shipping=0&no_note=1&tax=0&currency_code=USD&charset=UTF%2d8) my [cat](http://instagram.com/katopz) 
 any $ is welcome :)
