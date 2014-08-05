@@ -12,8 +12,9 @@ And also all required swc for hit and run. Don't forget to add this to compiler 
 ```
 Please see http://www.robotlegs.org/ for more detail.
 - - -
-If you like this please [feed](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=katopz%40sleepydesign%2ecom&item_name=sleepydesign&no_shipping=0&no_note=1&tax=0&currency_code=USD&charset=UTF%2d8) my [cat](http://instagram.com/katopz) 
-any $ is welcome :)
+Love me? love my cat!
+---
+Please feed my [cat](http://instagram.com/katopz) right [here](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=katopz%40gmail%2ecom&lc=TH&item_name=tuna&item_number=tuna&button_subtype=services&no_note=0&currency_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHostedGuest) or [here](https://itunes.apple.com/th/app/meaning/id666957022?mt=8)
 - - -
 
 Copyright (c) 2013 Todsaporn Banjerdkit. All rights reserved.
